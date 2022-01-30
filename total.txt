@@ -1,0 +1,18 @@
+Total de cartões amarelos casa: 1
+Total de cartões amarelos fora: 5
+
+Total de cartões vermelhos casa: 0
+Total de cartôes vermelhos fora: 0
+
+Total de escanteios a favor: 17
+Total de escanteios contra: 5
+
+Total de posse de bola: 116,2
+Total posse de bola casa: 65,1
+Total de posse de bola fora: 51,1
+
+Total de finalizações: 24
+Total de finalizalções gol: 12
+
+TOTAL DE JOGOS: 02
+

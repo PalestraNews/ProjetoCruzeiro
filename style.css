@@ -43,7 +43,7 @@ nav {
 nav > a {
     color: white;
     text-decoration: none;
-    padding-right: 7px;
+    padding-left: 7px;
 }
 
 nav > a:hover {
