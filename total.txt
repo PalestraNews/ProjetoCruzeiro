@@ -1,27 +1,37 @@
-Total de cartões amarelos casa: 3
-Total de cartões amarelos fora: 6 
+Total de cartões amarelos casa: 7
+Total de cartões amarelos fora: 7
 
 Total de cartões vermelhos casa: 1
 Total de cartôes vermelhos fora: 1
 
-Total de escanteios a favor: 30
-Total de escanteios contra: 12
+Total de escanteios a favor: 60
+Total de escanteios contra: 28
 
-Total de posse de bola: 227,2
-Total posse de bola casa: 109
-Total de posse de bola fora: 118,2
+Total de posse de bola: 461,7
+Total posse de bola casa: 297,5
+Total de posse de bola fora: 164,2 
 
-Total de finalizações: 38
-Total de finalizalções gol: 17
+Total de finalizações: 110
+Total de finalizalções gol: 42
 
-Total de gols marcados casa: 3
+Total de gols marcados casa: 8
 Total de gols marcados fora: 6
 
-Total de gols sofridos casa: 2
+Total de gols sofridos casa: 5
 Total de gols sofridos fora: 1
 
-Total de passes: 1599
-Passes certos %: 358,7
+Total de passes: 3344
+Passes certos %: 717,9
 
-TOTAL DE JOGOS: 04
+TOTAL DE JOGOS: 08
+TOTAL DE JOGOS EM CASA: 05
+TOTAL DE JOGOS FORA: 03
+
+
+            TOTAL     CASA    FORA
+VITÓRIAS:   6          3        3
+EMPATES:    1          1        0
+DERROTAS:   1          1        0
+
+
 
